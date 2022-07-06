@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/hJtJcHjCYPN2o/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvishalsingh&label=Profile%20views&color=0e75b6&style=flat" alt="mrvishalsingh" /> </p>
 
-- 🔭 I’m currently working on **Starbucks**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Python, Angular**
 
-- 📫 How to reach me **vishalsingh5998@gmail.com**
+- 📫 Contact me **vishalsingh5998@gmail.com**
 
-- ⚡ Fun fact **I am seriously sustaining on coffee**
+- ⚡ Fun fact about me **I am seriously sustaining on coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
